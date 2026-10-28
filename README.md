@@ -31,7 +31,23 @@ Este repositorio es un recurso educativo para estudiantes de ingeniería de nive
 | 07 | Mapeo con SLAM |
 | 08 | Navegación autónoma con Nav2 |
 
-**[Leer el tutorial de implementación](docs/GUIA_IMPLEMENTACION.md)**
+
+## 📚 Tutoriales y documentación
+
+Este repositorio incluye dos tutoriales para aprender a utilizar y programar el robot móvil **Elephant Robotics myAGV 2023 JN** mediante ROS 2.
+
+### 1. Tutorial de control por teclado
+
+Guía práctica para controlar el movimiento del myAGV, utilizar los comandos de ROS 2, consultar sensores y realizar ejercicios básicos.
+
+📖 [Ver tutorial de comandos de teclado](docs/tutorial_myAGV_2023_JN_teclado_ROS2.md)
+
+### 2. Tutorial de implementación ROS 2 Learning
+
+Guía paso a paso para construir un entorno educativo de programación del myAGV, desde los primeros nodos Python hasta SLAM y navegación autónoma.
+
+📖 [Ver tutorial de implementación ROS 2](docs/tutorial_implementacion_myagv_ros2_learning.md)
+
 
 La organización propuesta es:
 
